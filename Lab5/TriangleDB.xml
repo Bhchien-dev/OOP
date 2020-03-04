@@ -1,0 +1,42 @@
+<?xml version="1.0" standalone="yes"?>
+<NewDataSet>
+  <Table>
+    <ID>1</ID>
+    <Song>ME!</Song>
+    <Artist>Taylor Swift</Artist>
+    <Gerne>Pop</Gerne>
+  </Table>
+  <Table>
+    <ID>2</ID>
+    <Song>Everthing</Song>
+    <Artist>Taylor Swift</Artist>
+    <Gerne>R&amp;B</Gerne>
+  </Table>
+  <Table>
+    <ID>3</ID>
+    <Song>Love</Song>
+    <Artist>Sergio</Artist>
+    <Album>Love is life</Album>
+    <Gerne>Country</Gerne>
+  </Table>
+  <Table>
+    <ID>4</ID>
+    <Song>Call You Mine</Song>
+    <Artist>The ChainMokers</Artist>
+    <Album>Call</Album>
+    <Gerne>Rock</Gerne>
+  </Table>
+  <Table>
+    <ID>5</ID>
+    <Song>Find U Again</Song>
+    <Artist>Mark Ronson</Artist>
+    <Gerne>R&amp;B</Gerne>
+  </Table>
+  <Table>
+    <ID>123</ID>
+    <Song>123</Song>
+    <Artist>111</Artist>
+    <Album>222</Album>
+    <Gerne>222</Gerne>
+  </Table>
+</NewDataSet>

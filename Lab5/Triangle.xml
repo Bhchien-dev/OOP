@@ -1,0 +1,15 @@
+<?xml version="1.0"?>
+<Triangle xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema" Type="Right Triangle">
+  <Point_one>
+    <x>0</x>
+    <y>0</y>
+  </Point_one>
+  <Point_two>
+    <x>1</x>
+    <y>0</y>
+  </Point_two>
+  <Point_three>
+    <x>0</x>
+    <y>1</y>
+  </Point_three>
+</Triangle>
